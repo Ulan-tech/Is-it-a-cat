@@ -1,2 +1,2 @@
-# Is-it-a-dog
-Deep learning model to classify dogs 
+# Is-it-a-cat
+Deep learning model to classify cats
